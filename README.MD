@@ -6,4 +6,5 @@ To run this project, you will need to:
 1. Clone the repo
 2. Run `npm install` to install the dependencies
 3. Download Chromedriver and make sure it is in your path
-4. Run `npm run test` to kick off the tests
+4. Run `npm run server` to start the selenium server
+5. Run `npm run test` to kick off the tests
