@@ -1,0 +1,17 @@
+{
+  "name": "webdriver-donghee",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js",
+    "server": "java -jar selenium-server-standalone-3.0.1.jar"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "wdio-jasmine-framework": "^0.3.1"
+  }
+}
